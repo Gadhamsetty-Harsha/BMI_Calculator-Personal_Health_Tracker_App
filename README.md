@@ -1,8 +1,15 @@
 #  Beauty in Strength (BMI Calculator) – Personal Health Tracker App
 
 ## Overview
-Our team is developing an integrated **BMI Calculator** for the **Fitness & Yoga App** to help users track their weight status and receive personalized health insights. This feature aligns with the app’s mission to provide **holistic wellness solutions**, including **workouts, yoga, nutrition, and progress tracking**.
+This tool helps users check BMI, understand their weight category, and follow simple fitness and nutrition tips. It supports daily tracking inside the Fitness and Yoga system..
 
+## Features
+- BMI calculation from height and weight
+- Category classification
+- Simple fitness and nutrition tips
+- Progress tracking
+- Yoga and workout guidance
+- Mobile friendly layout
 ## BMI Categories & Health Guidance
 The calculator classifies users into standard BMI ranges and offers tailored recommendations:
 
@@ -25,6 +32,21 @@ The calculator classifies users into standard BMI ranges and offers tailored rec
 ### Extremely Obese (BMI ≥ 35)
 - **Focus:** Medical guidance + gentle activity.
 - **Tip:** Consult a doctor; start with chair yoga or short walks.
+
+## Why It Helps
+- You understand your weight range
+- You get tips for improvement
+- You track progress
+- You sync insights with workouts and yoga plans
+
+## Tech Stack
+- React
+- React Router
+- CSS and Bootstrap
+- React Hooks
+- Hardcoded logic for BMI
+- Git and GitHub
+- Vercel for deployment
 
 ## Why It Matters
 The BMI Calculator empowers users to:
@@ -50,8 +72,24 @@ The BMI Calculator empowers users to:
    npm start
    ```
 
+## Project Workflow
+- User enters height and weight
+- System calculates BMI
+- System shows category
+- System displays tips
+- User tracks progress over time
+  
+## Environment Variables
+```sh
+.env.example
+REACT_APP_API_KEY=
+```
+
 ## Contributing
 We welcome contributions! Feel free to submit issues and pull requests.
-
+- Fork the repo
+- Create a branch
+- Commit changes
+- Open a pull request
 ---
 _Stay healthy, stay fit! 🧘‍♀️💪_
