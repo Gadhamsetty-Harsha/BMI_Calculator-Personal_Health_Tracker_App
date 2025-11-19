@@ -51,9 +51,9 @@ The calculator classifies users into standard BMI ranges and offers tailored rec
 
 ## 📍 Why It Matters
 The BMI Calculator empowers users to:
-✔ **Understand their weight status.**  
-✔ **Get customized fitness/nutrition tips.**  
-✔ **Track progress alongside app workouts & yoga plans.**
+- ✔ Understand their weight status.  
+- ✔ Get customized fitness/nutrition tips.
+- ✔ Track progress alongside app workouts & yoga plans.
 
 ## 🚀 Installation & Usage
 1. **Clone the repository:**
